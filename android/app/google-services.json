@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511295904558",
+    "project_id": "lienardzblog",
+    "storage_bucket": "lienardzblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511295904558:android:a19500173a13b117a3f8bf",
+        "android_client_info": {
+          "package_name": "com.example.lienardzblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511295904558-jir7vbsq8f81h30mpjrh23td9l1q407h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGRA0UrW_wZpXgvJ06gbxM4h852I2Cjg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511295904558-jir7vbsq8f81h30mpjrh23td9l1q407h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
